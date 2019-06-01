@@ -7,7 +7,7 @@
     <property name="title" translatable="yes">USB Drive Formatter</property>
     <property name="resizable">False</property>
     <property name="window_position">center</property>
-    <property name="icon_name">magpiestick</property>
+    <property name="icon_name">flash-drive-tool</property>
     <property name="type_hint">dialog</property>
     <child>
       <placeholder/>
@@ -279,7 +279,7 @@ EXT4
     <property name="title" translatable="yes">USB Image Writter</property>
     <property name="resizable">False</property>
     <property name="window_position">center</property>
-    <property name="icon_name">magpiestick</property>
+    <property name="icon_name">flash-drive-tool</property>
     <property name="type_hint">dialog</property>
     <child>
       <placeholder/>
@@ -502,7 +502,7 @@ EXT4
     <property name="title" translatable="yes"> </property>
     <property name="modal">True</property>
     <property name="window_position">center-on-parent</property>
-    <property name="icon_name">magpiestick</property>
+    <property name="icon_name">flash-drive-tool</property>
     <property name="type_hint">dialog</property>
     <property name="transient_for">main_dialog</property>
     <child>
@@ -610,7 +610,7 @@ EXT4
     <property name="title" translatable="yes"> </property>
     <property name="modal">True</property>
     <property name="window_position">center-on-parent</property>
-    <property name="icon_name">magpiestick</property>
+    <property name="icon_name">flash-drive-tool</property>
     <property name="type_hint">dialog</property>
     <property name="transient_for">main_dialog</property>
     <child>
@@ -702,7 +702,7 @@ EXT4
     <property name="title" translatable="yes"> </property>
     <property name="modal">True</property>
     <property name="window_position">center-on-parent</property>
-    <property name="icon_name">magpiestick</property>
+    <property name="icon_name">flash-drive-tool</property>
     <property name="type_hint">dialog</property>
     <property name="transient_for">main_dialog</property>
     <child>

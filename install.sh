@@ -19,7 +19,8 @@ else
     cp share/applications/flash-drive-tool-kde.desktop /usr/share/applications/
     cp share/applications/flash-drive-format-tool-kde.desktop /usr/share/applications/
     cp share/kde4/flash-drive-format-tool_action.desktop /usr/share/kde4/apps/solid/actions
-    cp share/pixmaps/flash-drive-tool.png /usr/share/pixmaps 
+    cp share/pixmaps/flash-drive-tool.png /usr/share/pixmaps
+    cp -arf share/icons /usr/share
     cp flash-drive-tool /usr/bin/
     mkdir -p /usr/lib/flash-drive-tool
     mkdir -p /usr/share/flash-drive-tool
