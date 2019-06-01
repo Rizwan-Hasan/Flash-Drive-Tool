@@ -11,6 +11,7 @@ if [ "$1" = "uninstall" ]; then
     rm -r /usr/share/applications/flash-drive-format-tool.desktop
     rm -r /usr/share/applications/flash-drive-format-tool-kde.desktop
     rm -f /usr/bin/flash-drive-tool
+    rm -f /usr/share/pixmaps/flash-drive-tool.png
     rm -rf /usr/share/kde4/apps/solid/actions/flash-drive-format-tool.desktop
 else
     cp share/applications/flash-drive-tool.desktop /usr/share/applications/
@@ -18,6 +19,7 @@ else
     cp share/applications/flash-drive-tool-kde.desktop /usr/share/applications/
     cp share/applications/flash-drive-format-tool-kde.desktop /usr/share/applications/
     cp share/kde4/flash-drive-format-tool_action.desktop /usr/share/kde4/apps/solid/actions
+    cp share/pixmaps/flash-drive-tool.png /usr/share/pixmaps 
     cp flash-drive-tool /usr/bin/
     mkdir -p /usr/lib/flash-drive-tool
     mkdir -p /usr/share/flash-drive-tool
