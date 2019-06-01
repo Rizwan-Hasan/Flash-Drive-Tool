@@ -6,6 +6,6 @@ Icon=system-run
 Exec=flash-drive-tool -m format
 Categories=System;
 OnlyShowIn=KDE;
-Name=Flash Drive Formatter
+Name=USB Drive Formatter
 Comment=Format a Flash Drive
 GenericName=Format a Flash Drive

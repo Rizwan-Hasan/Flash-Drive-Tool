@@ -6,5 +6,5 @@ Icon=flash-drive-tool
 Exec=flash-drive-tool -m format
 Categories=GNOME;GTK;Utility;
 NotShowIn=KDE;
-Name=Flash Drive Formatter
+Name=USB Drive Formatter
 Comment=Format a USB Flash Drive
